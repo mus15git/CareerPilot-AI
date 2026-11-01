@@ -14,3 +14,6 @@ build/
 
 # Logs
 *.log
+
+# Personal generated resume
+Backend/production-test-resume.pdf
